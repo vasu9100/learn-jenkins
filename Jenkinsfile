@@ -20,7 +20,7 @@ pipeline {
             steps {
                 sh """
                     echo "Hi Slepping running"
-                    sleep 20
+                    sleep 10
                 """
             }
         }
